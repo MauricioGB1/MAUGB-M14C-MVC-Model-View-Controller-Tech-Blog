@@ -81,23 +81,41 @@ https://gentle-beyond-81336.herokuapp.com/
 ## Usage
 
 
+Access to Home Page
 
 ![alt text](./assets/image1.jpg )
 
+Log-In Section Please enter your Username and Password
+
 ![alt text](./assets/image2.jpg)
+
+Welcome Section, click on the lower button for NEW POST
 
 ![alt text](./assets/image3.jpg )
 
+
+Create your NEw Post, enter Title and Content information the push Create section for saving and post
+
 ![alt text](./assets/image4.jpg)
+
+
+Confirmation of post
 
 ![alt text](./assets/image5.jpg)
 
+Option to edit post, select section and make changes. Finish pushing the edit button
+
 ![alt text](./assets/image6.jpg)
+
+Confrimation of post
 
 ![alt text](./assets/image7.jpg)
 
+Edit or delete post
+
 ![alt text](./assets/image8.jpg)
 
+HomePage with all posts
 ![alt text](./assets/image9.jpg)
 
 ## Credits

@@ -3,18 +3,18 @@ const { Post } = require('../models');
 const postdata =
 [
   {
-    "postTitle": "Beautiful Day",
-    "postContent": "This is a beautiful day",
+    "postTitle": "Computing Power ",
+    "postContent": "Robotic Process Automation, is all about computing and automation software",
     "userId": 1
   },
   {
-    "postTitle": "Fields",
-    "postContent": "This is the greenest field",
+    "postTitle": "Smarter Devices ",
+    "postContent": "Artificial intelligence has played an essential role in making our world smarter and smoother. It is not just simulating humans but going the extra mile to make our life hassle-free and simpler. ",
     "userId": 2
   },
   {
-    "postTitle": "Do you hear it?",
-    "postContent": "This is very musical, listen!",
+    "postTitle": "Datafication",
+    "postContent": "Datafication is simply transforming everything in our life into devices or software powered by data",
     "userId": 3
   }
 ];

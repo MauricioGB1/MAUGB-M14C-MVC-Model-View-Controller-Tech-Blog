@@ -3,15 +3,15 @@ const { User } = require('../models');
 const userdata =
 [
   {
-    "username": "Can",
+    "username": "Mauricio",
     "password": "password"
   },
   {
-    "username": "Ali",
+    "username": "Robert",
     "password": "password"
   },
   {
-    "username": "Bono",
+    "username": "Brenda",
     "password": "password"
   }
 ];

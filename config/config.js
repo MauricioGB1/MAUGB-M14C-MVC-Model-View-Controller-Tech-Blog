@@ -8,13 +8,13 @@ const sequelize = process.env.JAWSDB_URL
   : new Sequelize(
     // process.env.DB_NAME, process.env.DB_USER, process.env.DB_PASSWORD,
 
-    process.env.DB_NAME, 
-    process.env.DB_USER, 
-    process.env.DB_PW,
+    // process.env.DB_NAME, 
+    // process.env.DB_USER, 
+    // process.env.DB_PW,
     
-    // process.env.DB_NAME = 'tech_blog_db',
-    // process.env.DB_USER = 'root',
-    // process.env.DB_PW = 'mon',
+    process.env.DB_NAME = 'tech_blog_db',
+    process.env.DB_USER = 'root',
+    process.env.DB_PW = 'mon',
     
     {
       host: 'localhost',

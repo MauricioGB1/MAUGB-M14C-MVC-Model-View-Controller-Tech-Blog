@@ -40,15 +40,45 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+This Program can run using on the local terminal hoist location (local port) or running using the deployed application by Heroku link.
+
+
+This program runs under node.js and MySQL.  
+
+Clone the repository.
+
+Repository location: https://github.com/MauricioGB1/MAUGB-M14C-MVC-Model-View-Controller-Tech-Blog
+
+Proceed to clone this repository.  
+
+Open in integrated terminal 
+
+Log-in to mysql , enter user and password
+
+Type use db/schema.sql
+
+Close mysql
+
+Install npm install for all packaged on package.json  file.
+
+You can run the application from the integrated terminal. Type npm start
+
+Open http://localhost:3001/
+
+Log-in to the application 
+
+Click new post
+
+Enter new post and save
+
+Application can also run using the following link:
 
 HEROKU Deployed Link:
-
 https://gentle-beyond-81336.herokuapp.com/
 
 
 
-      ## Usage
+## Usage
 
 
 

@@ -40,8 +40,13 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-This Program can run using on the local terminal hoist location (local port) or running using the deployed application by Heroku link.
+This Program can run using on the local terminal hoist location (local port) or running using the deployed application by Heroku.
 
+This Application can be use the link deployed by Heroku, please use the corresponding link below.
+
+Heroku Deployment Link:
+
+https://gentle-beyond-81336.herokuapp.com/
 
 This program runs under node.js and MySQL.  
 

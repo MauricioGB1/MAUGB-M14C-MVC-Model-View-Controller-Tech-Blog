@@ -46,7 +46,8 @@ This Application can be use the link deployed by Heroku, please use the correspo
 
 Heroku Deployment Link:
 
-https://gentle-beyond-81336.herokuapp.com/
+https://calm-tor-55527.herokuapp.com/
+
 
 This program runs under node.js and MySQL.  
 
@@ -79,7 +80,7 @@ Enter new post and save
 Application can also run using the following link:
 
 HEROKU Deployed Link:
-https://gentle-beyond-81336.herokuapp.com/
+https://calm-tor-55527.herokuapp.com/
 
 
 
